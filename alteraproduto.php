@@ -103,7 +103,7 @@
     </div>
 
     <div class="formulario">
-        <form class="visualizaproduto" action="alteraproduto.php" method="post" enctype="multipart/    form-data">
+        <form class="visualizaproduto" action="alteraproduto.php" method="post" enctype="multipart/form-data">
             <input type="hidden" name="id" id="id" value="<?=$id?>">
             <label>NOME</label>
             <input type="text" name="nome" value="<?=$nome?>">
