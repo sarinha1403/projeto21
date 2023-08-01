@@ -1,6 +1,6 @@
 /* HEADER */
 header {
-    background-color:  hwb(295 0% 87%);
+    background-color:  hwb(276 29% 15%);
     padding: 10px;
     border-radius: 3px;
 
@@ -81,7 +81,7 @@ header {
   }
   
   .card .price {
-    color: rgb(87, 6, 80);
+    color: rgb(231, 151, 224);
     font-size: 22px;
   }
   
