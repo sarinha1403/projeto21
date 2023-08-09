@@ -55,7 +55,7 @@
 
                         mysqli_query($link, $sql);
                         echo"<script>window.alert('PRODUTO ADICIONADO AO CARRINHO');</script>";
-                        echo"<script>window.location.href='loha.php';</script>";
+                        echo"<script>window.location.href='loja.php';</script>";
                     }
                 }
             }
